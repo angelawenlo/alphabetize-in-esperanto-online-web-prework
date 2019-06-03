@@ -8,6 +8,4 @@ def alphabetize(arr)
 arr
           binding.pry
   end
-  arr
-        binding.pry
 end
