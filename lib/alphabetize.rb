@@ -5,6 +5,8 @@ def alphabetize(arr)
     sentence.split("").map do |character|
       alphabet.index(character)
     end
+arr
+          binding.pry
   end
   arr
         binding.pry
