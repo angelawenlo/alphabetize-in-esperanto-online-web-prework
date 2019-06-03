@@ -6,6 +6,5 @@ def alphabetize(arr)
       alphabet.index(character)
       binding.pry
     end
-
   end
 end
